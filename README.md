@@ -47,10 +47,7 @@ Acesso:
 Executando o Arquivo SQL no BigQuery:
    1. Acesse o BigQuery no console do GCP.
    2. Clique em "Compose new query" (compor nova consulta).
-   3. No editor de consulta, cole o conteúdo do arquivo `analise_sql.sql` diretamente ou use o seguinte código para importar e executar:
-
-        ```sql
-        IMPORT EXTERNAL DATA FROM "https://raw.githubusercontent.com/bgmrs/emd-desafio-junior-data-scientist/blob/main/analise_sql_python/analise_sql.sql"
+   3. No editor de consulta, cole o conteúdo do arquivo `analise_sql.sql` diretamente
 
 As questões de `perguntas_sql.md` também foram resolvidas com Python e Pandas no Google Colab, com as respostas em `analise_python.ipynb` dentro da pasta `analise_sql_python`.
 
