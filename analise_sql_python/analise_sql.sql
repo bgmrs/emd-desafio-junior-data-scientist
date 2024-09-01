@@ -143,4 +143,4 @@ SELECT
     and c.data_inicio BETWEEN DATE('2022-01-01') AND DATE('2023-12-31')
 order by 2 desc
 
--- R: Dada as médias, podemos observar que apenas no período de Reveillon a média de chamadas não superou todo o período de 01/01/2022 até 31/12/2023
+-- R: As médias diárias de chamados são: Reveillon com 46.33, Carnaval com 60.25, Rock in Rio com 119.14 e 2023-12-31 a 2022-01-01 com 58.67. Dada as médias, podemos observar que apenas no período de Reveillon a média de chamados não superou todo o período de 01/01/2022 até 31/12/2023
