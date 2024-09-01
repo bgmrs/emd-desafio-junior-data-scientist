@@ -12,7 +12,7 @@ As perguntas do desafio estão detalhadas nos arquivos `perguntas_sql.md` e `per
  - Análise de Dados em Python
  - Integração e Consumo de APIs
  - Desenvolvimento de Visualização de Dados Informativa
-
+ - Desenvolvimento de Modelo de Aprendizado de Máquina
 
 ## Conjunto de Dados
 
@@ -65,6 +65,16 @@ As questões do arquivo `perguntas_api.md` foram resolvidas com Python, com as r
 
 Acesso: Importe o [Notebook](https://github.com/bgmrs/emd-desafio-junior-data-scientist/blob/main/analise_api/analise_api.ipynb) no Google Colab. Para rodar este notebook é necessário fazer upload do arquivo json 'descriptions' em Files no Colab, localizado dentro da pasta `analise_api`
 
+ - ### Dashboard: 
 
+A visualização informativa dos dados das tabelas e APIs foi criada usando o Looker Studio. Um print da visualização esta dentro da pasta `dashboard`.
+
+Acesso: [Acesse a Dashboard](https://lookerstudio.google.com/s/nRdJMZ9lrXs)
+
+ - ### Modelo de Aprendizado de Máquina: 
+
+Adicionalmente, foi desenvolvido um modelo de aprendizado de máquina não supervisionado utilizando K-means para clusterizar os milímetros de pluviosidade registrados nos últimos 24 anos na cidade do Rio de Janeiro.
+
+Acesso: Importe o [Notebook](https://github.com/bgmrs/emd-desafio-junior-data-scientist/blob/main/machine_learning/analise_ml.ipynb) no Google Colab
 
 ---
