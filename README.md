@@ -67,7 +67,7 @@ Acesso: Importe o [Notebook](https://github.com/bgmrs/emd-desafio-junior-data-sc
 
  - ### Dashboard: 
 
-A visualização informativa dos dados das tabelas e APIs foi criada usando o Looker Studio. Um print da visualização esta dentro da pasta `dashboard`.
+A visualização informativa dos dados das tabelas e APIs foi criada usando o Looker Studio. Uma prévia da visualização pode ser encontrada na pasta `dashboard`.
 
 Acesso: [Acesse a Dashboard](https://lookerstudio.google.com/s/nRdJMZ9lrXs)
 
